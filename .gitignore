@@ -1,0 +1,13 @@
+# Ignore VS Code configuration and build folders
+.vscode/
+build/
+bin/
+obj/
+lib/
+*.exe
+
+# Ignore downloaded library files you didn't write
+raylib.h
+raymath.h
+glad.c
+third_party/
